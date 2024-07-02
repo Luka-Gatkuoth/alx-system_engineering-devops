@@ -1,1 +1,3 @@
-ssh ubuntu@54.242.193.134
+#!/usr/bin/env bash
+#script to connect to server
+ssh -i/root/.ssh/school ubuntu@54.242.193.134
