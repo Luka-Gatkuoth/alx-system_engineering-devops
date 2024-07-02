@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#Script that create RSA key repair
+ssh-keygen -t rsa -b4096 -Nbetty -f/root/.ssh/school
