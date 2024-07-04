@@ -5,5 +5,5 @@ file {"Gatkuoth's puppet":
   mode    => '0744',
   0wner   => 'www-data',
   group   => 'www-data',
-  content => 'i love puppet'
+  content => 'I love Puppet'
 }
